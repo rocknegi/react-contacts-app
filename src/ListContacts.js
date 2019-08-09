@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import propTypes from 'prop-types'
 
-
 class ListContacts extends Component {
 
     state = {
